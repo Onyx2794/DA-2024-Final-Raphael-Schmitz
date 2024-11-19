@@ -1,0 +1,10 @@
+Business Question:
+Which google search queries have benefitted website publicity most? The idea is that many companies strive to be the first result on google, and being able to analyze which terms and keywords can boost a page to the front of google has major financial benefits. 
+As more product sales go virtual, this data becomes more important. Processing this data and understanding it is the first step towards promoting your page, without having to pay google to sponsor your page at the top.
+
+Data to visualize:
+- Top search terms per Region
+- Top search terms per Time (Month)
+- Top search terms all Time
+
+Dataset - https://www.kaggle.com/datasets/lorentzyeung/top-20-most-searched-queries-in-google-search?select=202308+Top+20+most+searched+queries+in+EMEA+USA+AUS.csv
